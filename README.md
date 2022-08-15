@@ -1,4 +1,19 @@
-### Hi there 👋
+### Front-End Web Developer 💻
+
+#### I'm currently using these learning resources 👨‍🏫
+- freeCodeCamp
+- TheOdinProject
+- Scrimba
+
+#### I'm currently working on... 🏗
+- Learn Advanced CSS, JavaScript, Git, React, Bootstrap, Sass and the basics of Back-End
+- Make my portfolio website
+- Create a Linkedln account
+- Get my first job as a Freelancer
+
+#### About Me 🎈
+  My name is Geomar, 16 years old, based in Dominican Republic. My goals are learn web development, do some freelance gigs, to then use that experience to get a 
+  full-time job, or create a business. My hobbies are photography, music, reading and playing a lot of videogames 🎮 Always open to know new people, so you can reach     out! 
 
 <!--
 **geomarabreu/geomarabreu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
