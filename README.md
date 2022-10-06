@@ -6,7 +6,7 @@
 - Scrimba
 
 #### I'm currently working on... 🏗
-- Learn Advanced CSS, JavaScript, Git, React, Bootstrap, Sass and the basics of Back-End
+- Learn Advanced CSS, JavaScript, Git, React, Bootstrap/TailwindCSS, Sass and the basics of Back-End
 - Make my Portfolio Website
 - Create a Linkedln account
 - Get my first job as a Freelancer
