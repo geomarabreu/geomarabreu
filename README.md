@@ -1,7 +1,6 @@
 ### Front-End Web Developer 💻
 
 #### I'm currently using these learning resources 👨‍🏫
-- freeCodeCamp
 - TheOdinProject
 - Scrimba
 
