@@ -1,6 +1,6 @@
 ### Self-Taught Programmer
 
-I'm currently using The Odin Project to learn how to code, and get a full-stack developer job as soon as I can. I don't have that much experience, but I'm willing to learn everything required to make it work. As with anything, it'll take a ton of effort, but even if I decide to go to college — which is possible & a good option — I'll try my best to learn everything needed to land my first job.
+I'm currently using The Odin Project to learn how to code, and get a full-stack developer job as soon as I can. I don't have that much experience, but I'm willing to learn everything required to make it work. As with anything, it'll take a ton of effort, but even if I decide to go to college — which is possible and a great option — I'll try my best to learn everything needed to land my first job.
 
 #### My goal: Code for at least 1 hour every day without miss.
 
