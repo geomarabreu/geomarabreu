@@ -1,6 +1,6 @@
 ### Self-Taught Programmer
 
-I'm currently using The Odin Project to learn how to code, and get a full-stack developer job as soon as I can. I don't have that much experience, but I'm willing to learn everything required to make it work. As with anything, it'll take a ton of effort, but even if I decide to go to college — which is possible and a great option — I'll try my best to learn everything needed to land my first job.
+Hi, I'm Geomar from Dominican Republic. Right now, my goals are to build my own business and help thousands (or millions) of people. I'm learning Scratch at the moment, moving on to using The Odin Project to learn web development and further expand my skillset. Maybe learn python in the future for machine learning and algorithms. I have the idea of doing a master on cybersecurity, but I'm not sure. Regardless of what I do in the future, I just want to achieve financial and location freedom doing what I love.
 
 #### My goal: Code for at least 1 hour every day without miss.
 
