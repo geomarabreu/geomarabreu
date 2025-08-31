@@ -1,8 +1,8 @@
-### Self-Taught Programmer
+### Computer Science Student 
 
-Hi, I'm Geomar from Dominican Republic. Right now, my goals are to build my own business and help thousands (or millions) of people. I'm learning web development with The Odin Project. Maybe learn Python in the future for machine learning and algorithms. I have the idea of doing a master on cybersecurity, but I'm not sure. Regardless of what I do in the future, I just want to achieve financial and location freedom doing what I love.
+Hi, I'm Geomar from Dominican Republic. I'm a computer science student attending at a local university. I'm building a personal brand on X and Substack, planning to learn to code (while in college) using The Odin Project, while learning to use AI for maximum productivity. I plan to build a business/company with my knowledge, starting with building online now, and going higher from there.
 
-#### My goal: Code for at least 1 hour every day without miss.
+#### My goal: Code for 2 hours or more every day.
 
 <!--
 **geomarabreu/geomarabreu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
