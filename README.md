@@ -1,6 +1,6 @@
 ### Computer Science Student 
 
-Hi, I'm Geomar from Dominican Republic. I'm a computer science student attending at a local university. I'm building a personal brand on X and Substack, planning to learn to code (while in college) using The Odin Project, while learning to use AI for maximum productivity. I plan to build a business/company with my knowledge, starting with building online now, and going higher from there.
+Hi, I'm Geomar from Dominican Republic. I'm a computer science student attending a local university. I'm building a personal brand on X and Substack, planning to learn to code (while in college) using The Odin Project, while learning to use AI for maximum productivity. I plan to build a business/company with my knowledge, starting with building online now, and going higher from there.
 
 #### My goal: Code for 2 hours or more every day.
 
